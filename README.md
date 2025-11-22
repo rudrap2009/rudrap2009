@@ -27,7 +27,8 @@ A passionate student of high school situated on Earth. I love programming, astro
  **About Me**
 ---
 
-I am a 14-year old student with a fervent passion for programming, I have accumulated two years of expertise in Python, HTML, CSS, and JavaScript, along with one year of proficiency in PHP and Flask. Additionally, I possess a foundational understanding of Java, jQuery, Node.js, C, C++, and C#.
+I am a 15-year old student with a fervent passion for programming, I have accumulated two years of expertise in Python, HTML, CSS, and JavaScript, along with one year of proficiency in PHP and Flask. Additionally, I possess a foundational understanding of Java, jQuery, Node.js, C, C++, and C#.
 
 
 Site = https://rudrasworld.infinityfreeapp.com
+Account created = Aug 2024 (i was 14)
